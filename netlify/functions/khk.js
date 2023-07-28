@@ -1,8 +1,11 @@
 
+/*
 require("./huncestdata.js");
 require("./huncitydata.js");
 
-global.reply_template={microservice:{version:"1.3", build:"20230728121313Z", user:"Guest", authorized:true}, answer:{}};
+*/
+
+global.reply_template={microservice:{version:"1.3", build:"20230728122813Z", user:"Guest", authorized:true}, answer:{}};
 
 function handleKhkRequest(request, reply) {
 
